@@ -22,7 +22,7 @@ To use the Flash Light Project, follow these steps:
 Clone the repository to your local machine:
 bash
 Copy code
- - git clone https://github.com/Banuprasath/Meal_App-Flutter-.git
+ - git clone https://github.com/Banuprasath/Flutter_Flash_Light.git
 
 Open the project in your favorite code editor.
 
